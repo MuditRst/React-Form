@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  min-height: 70vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  font-size: 130%;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  max-width: 500px;
+  min-width: 250px;
+  background-size: 25px 25px;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+
+.imgClass{
+  width: 90%;
+  height: 90%;
+
+}
+
+.footerImg{
+  width: 35%;
+  height: 35%;
+}
+
+.err{
+  color: red;
+}
