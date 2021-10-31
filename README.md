@@ -1,4 +1,4 @@
-# React form with Joi Validation
+# React form with Joi Validation.
 
 # Introduction
 
